@@ -9,6 +9,6 @@ Credits:
 
 Jam Theme: Transmission. 
 
-##About:
+## About:
 
 Thank you for testing the ARCANA Combat Simulation program! Your input is invaluable to the ARCANA project, and we value your participation in our trials. Trial side effects may include: - Permanent loss of memory. - Tasting blood - Existential dread. **Use headphones!**
